@@ -1,4 +1,4 @@
-Readme.
+# Readme.
 
 Workload Analysis Filesystem is a user spcae file system that using linux fuse.
 
@@ -28,5 +28,4 @@ when you unmount WLA FS by typing "sh unmount.sh", analysis.log file will be cre
 
 
 2016, Rocky, Ajou University, lrocky1229@gmail.com
-***************************************************************/
 
